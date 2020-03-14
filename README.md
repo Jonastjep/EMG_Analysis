@@ -1,4 +1,4 @@
-# EMG_Analysis
+# Electromyogram (EMG) Data Analysis - How Muscles Respond to Fatigue
 Analysis of the data from electromyograms done in Advanced Electronics.
 
 See Muscular_Fatigue_Data_Analysis.ipynb for the code that generated the graphs below.
